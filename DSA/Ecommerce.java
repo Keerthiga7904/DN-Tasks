@@ -17,8 +17,7 @@ class Product {
         return "[" + productId + ", " + productName + ", " + category + "]";
     }
 }
-
-public class ECommerce {
+public class Ecommerce {
 
     // Linear Search by Product Name
     public static Product linearSearch(Product[] products, String targetName) {
