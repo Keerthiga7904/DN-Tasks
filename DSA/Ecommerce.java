@@ -77,3 +77,11 @@ public class Ecommerce {
         }
     }
 }
+
+
+// output:
+// === Linear Search ===
+// Product Found: [5, Watch, Accessories]
+
+// === Binary Search ===
+// Product Found: [5, Watch, Accessories]
